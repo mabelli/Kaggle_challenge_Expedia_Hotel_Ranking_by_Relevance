@@ -1,6 +1,7 @@
 # Kaggle_challenge_Expedia_Hotel_Ranking_by_Relevance
 The purpose of this repository is to document the analysis process for Expedia hotel ranking Kaggle competition.
 
+<br />
 
 #### The notebook folder consists of three files: 
 1. [Expedia_Hotel_Ranking_Latent_Factor_Hyperparameter_tuning](notebook/Expedia_Hotel_Ranking_Latent_Factor_Hyperparameter_tuning.ipynb): 
@@ -13,6 +14,7 @@ The purpose of this repository is to document the analysis process for Expedia h
 3. [Expedia_Hotel_Ranking_Model_Selection](notebook/Expedia_Hotel_Ranking_Model_Selection.ipynb): complementary to the first notebook
    - models considered: collaborative filtering, content-based filtering, latent factor model
 
+<br />
 
 #### The deliverables folder includes the presentation slides.
 
